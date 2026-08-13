@@ -2,7 +2,7 @@
 # Copyfuck © 2010 q
 # Edited by NewEraCracker
 #
-# This script installs, updates and runs LOIC on Linux.
+# This script installs, updates and runs LOIC on bhai
 #
 # Supported distributions:
 #    * Ubuntu
